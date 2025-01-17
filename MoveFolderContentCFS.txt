@@ -1,0 +1,23 @@
+#create global variables
+$OTESource
+$OTEDestination
+$ATESource
+$ATEDestination
+
+
+function EGTransfer{
+    #Add paramaters
+}
+
+function OXTransfer{
+    #Add paramaters
+}
+
+function QASTransfer{
+    #Add paramaters
+}
+
+#calls
+EGTransfer
+OXTransfer
+QASTransfer
