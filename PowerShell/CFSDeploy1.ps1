@@ -1,4 +1,5 @@
 # Define the users to exclude from being disabled
+#test
 $excludedUsers = @("CFS", "isladmin")
 
 # Get all local users
